@@ -1,47 +1,44 @@
 <div align="center">
 
-![Endfield Header](https://capsule-render.vercel.app/api?type=rect&color=CCFF00&height=120&section=header&text=%E2%97%A4%20ENDFIELD_INDUSTRIES%20//%20RECOVERY_DEPT&fontSize=45&fontColor=000000&fontAlignY=50)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&pause=1000&color=CCFF00&center=true&vCenter=true&width=600&lines=INITIALIZING+ENDFIELD+PROTOCOL...;%3E+CONNECTING_TO_USER%3A+ARKSHENCEFORTH;%3E+ACCESS_LEVEL%3A+ADMINISTRATOR;STATUS%3A+ONLINE" alt="Typing SVG" />
+</a>
 
-# ⫸ DATA_ARCHIVE: Arkshenceforth
-`STATUS:` **RECOGNIZED** // `ID:` **ARK-772** // `CLEARANCE:` **LV_01**
+<br>
 
----
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>┌── ⚙️ OPERATOR_DETAILS ──┐</h3>
+      <code><b>ID_TAG:</b> ARK-772</code><br>
+      <code><b>CLASS:</b> ARCHITECT</code><br>
+      <code><b>LOC:</b> [REDACTED]</code><br>
+      <code><b>SYNC:</b> 98.4%</code>
+      <br><br>
+      <b>[ CURRENT_OBJECTIVE ]</b><br>
+      <code>> ABSORB_DATA</code><br>
+      <code>> EXPAND_REPOSITORY</code>
+      <br><br>
+      <img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-CCFF00?style=flat-square&logo=windows&logoColor=black">
+    </td>
+    <td valign="top" width="50%">
+      <h3>┌── 📊 NETWORK_TRAFFIC ──┐</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Arkshenceforth&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=CCFF00&text_color=FFFFFF&icon_color=CCFF00" alt="Stats" />
+    </td>
+  </tr>
+</table>
 
-### ◰ [ SECTOR_OVERVIEW ]
-| ▮ OPERATIONAL_STATUS | ▮ CONNECTION_TYPE | ▮ PROTOCOL |
-| :--- | :--- | :--- |
-| `ACTIVE` | `ENCRYPTED_UPLINK` | `NEON_MINIMALIST` |
+<code>▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</code>
 
----
+<h3>[ 🛠️ MODULE_CONFIGURATION ]</h3>
 
-### ◰ [ SYSTEM_DIAGNOSTICS ]
-`∠` **CORE_DRIVE:** `WINDOWS_OS`
-`∠` **COMPILER:** `VS_CODE_SHELL`
-`∠` **VERSION:** `1.0.4_BETA`
+<img src="https://img.shields.io/badge/LANG_01-PYTHON-black?style=for-the-badge&logo=python&logoColor=CCFF00&labelColor=1a1a1a">
+<img src="https://img.shields.io/badge/LANG_02-MARKDOWN-black?style=for-the-badge&logo=markdown&logoColor=CCFF00&labelColor=1a1a1a">
+<img src="https://img.shields.io/badge/SHELL-GITHUB-black?style=for-the-badge&logo=github&logoColor=CCFF00&labelColor=1a1a1a">
 
----
+<br><br>
 
-### ◰ [ RESOURCE_COLLECTION ]
-![Windows](https://img.shields.io/badge/OS-WINDOWS-white?style=for-the-badge&logo=windows&logoColor=CCFF00)
-![VSCode](https://img.shields.io/badge/IDE-VS_CODE-CCFF00?style=for-the-badge&logo=visual-studio-code&logoColor=black)
-![GitHub](https://img.shields.io/badge/VAULT-GITHUB-white?style=for-the-badge&logo=github&logoColor=CCFF00)
-
----
-
-### ◰ [ NEURAL_LINK_STATS ]
-`RE-SYNCHRONIZING_WITH_TALOS_II_SERVERS...`
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Arkshenceforth&show_icons=true&theme=vision-glow&title_color=CCFF00&text_color=ffffff&bg_color=000000&icon_color=CCFF00&border_color=CCFF00)
-
----
-
-### ◰ [ ANALYTICS ]
-`⫸` **ACCESS_LOG:** ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Arkshenceforth.Arkshenceforth&color=CCFF00&style=flat-square)
-`⫸` **LAST_SYNC:** `[ 0.0000ms_LATENCY ]`
-
----
-
-`/// END_OF_TRANSMISSION`
-`/// ENDFIELD_INDUSTRIES_©_2025`
+<code>║▌│█║▌│ █║▌│█│║▌║</code><br>
+<code>ENDFIELD_INDUSTRIES_©_2025 // TERMINATING_SESSION</code>
 
 </div>
