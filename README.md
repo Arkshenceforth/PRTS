@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003300,100:00ff00&height=200&section=header&text=Arkshenceforth&fontSize=90&animation=fadeIn&fontAlignY=35&theme=vision-glow)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ffffff,CCFF00&height=200&section=header&text=Arkshenceforth&fontSize=90&animation=fadeIn&fontColor=000000&theme=soft)
 # Hi, I'm Endministrator.
 
 
