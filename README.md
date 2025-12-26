@@ -2,9 +2,8 @@
 
 
 ### My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arkshenceforth&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkshenceforth&layout=compact&theme=dracula)
+![GitHub followers](https://img.shields.io/github/followers/Arkshenceforth?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Arkshenceforth/my-first-project?style=social)
 
 ---
 *Profile views: ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Arkshenceforth.Arkshenceforth)*
