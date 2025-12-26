@@ -1,44 +1,47 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=CCFF00&height=100&section=header&text=%E2%96%AE%20SYSTEM_ACCESS:%20GRANTED&fontSize=50&fontColor=000000&fontAlignY=50)
+![Endfield Header](https://capsule-render.vercel.app/api?type=rect&color=CCFF00&height=120&section=header&text=%E2%97%A4%20ENDFIELD_INDUSTRIES%20//%20RECOVERY_DEPT&fontSize=45&fontColor=000000&fontAlignY=50)
 
-# ::: ARCHIVE_DATA: Arkshenceforth :::
-**IDENT_NO:** `ARK-772` // **SEC_CLEARANCE:** `LEVEL_01`
-
----
-
-### [ SYSTEM_OVERVIEW ]
-`>>` **STATUS:** `ONLINE_&_OPERATIONAL`
-`>>` **PRIMARY_FOCUS:** `MASTERING_GITHUB_PROTOCOLS`
-`>>` **AESTHETIC_MODE:** `HIGH_CONTRAST_MONOCHROME`
+# ⫸ DATA_ARCHIVE: Arkshenceforth
+`STATUS:` **RECOGNIZED** // `ID:` **ARK-772** // `CLEARANCE:` **LV_01**
 
 ---
 
-### [ HARDWARE_&_TOOLS ]
-![Windows](https://img.shields.io/badge/OS-Windows-ffffff?style=flat-square&logo=windows&logoColor=CCFF00)
-![VSCode](https://img.shields.io/badge/SHELL-VS_Code-CCFF00?style=flat-square&logo=visual-studio-code&logoColor=black)
-![Terminal](https://img.shields.io/badge/ENV-Terminal-ffffff?style=flat-square&logo=gnumetome&logoColor=CCFF00)
+### ◰ [ SECTOR_OVERVIEW ]
+| ▮ OPERATIONAL_STATUS | ▮ CONNECTION_TYPE | ▮ PROTOCOL |
+| :--- | :--- | :--- |
+| `ACTIVE` | `ENCRYPTED_UPLINK` | `NEON_MINIMALIST` |
 
 ---
 
-### [ DATA_STREAM_STATUS ]
-`INITIATING_CONNECTION_TO_STAT_SERVERS...`
-*(Image stats appear here if the external server is reachable)*
+### ◰ [ SYSTEM_DIAGNOSTICS ]
+`∠` **CORE_DRIVE:** `WINDOWS_OS`
+`∠` **COMPILER:** `VS_CODE_SHELL`
+`∠` **VERSION:** `1.0.4_BETA`
+
+---
+
+### ◰ [ RESOURCE_COLLECTION ]
+![Windows](https://img.shields.io/badge/OS-WINDOWS-white?style=for-the-badge&logo=windows&logoColor=CCFF00)
+![VSCode](https://img.shields.io/badge/IDE-VS_CODE-CCFF00?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![GitHub](https://img.shields.io/badge/VAULT-GITHUB-white?style=for-the-badge&logo=github&logoColor=CCFF00)
+
+---
+
+### ◰ [ NEURAL_LINK_STATS ]
+`RE-SYNCHRONIZING_WITH_TALOS_II_SERVERS...`
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Arkshenceforth&show_icons=true&theme=vision-glow&title_color=CCFF00&text_color=ffffff&bg_color=000000&icon_color=CCFF00&border_color=CCFF00)
 
 ---
 
-### [ CONNECTION_ANALYTICS ]
-`>>` **PROFILE_VIEW_COUNT:** ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Arkshenceforth.Arkshenceforth&color=CCFF00&style=flat-square)
-`>>` **LAST_ACTIVE:** `[ TIMESTAMP_ENCRYPTED ]`
+### ◰ [ ANALYTICS ]
+`⫸` **ACCESS_LOG:** ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Arkshenceforth.Arkshenceforth&color=CCFF00&style=flat-square)
+`⫸` **LAST_SYNC:** `[ 0.0000ms_LATENCY ]`
 
 ---
 
-### [ PROJECT_MANIFEST ]
-`>` **CURRENT:** `LEARNING_REPOSITORY_SCRIPTS` // `CONCEPTUALIZING_TECH_DISPLAY`
-`>` **UPCOMING:** `AUTOMATED_SNAKE_SEQUENCE`
-
-`>>> END_OF_TRANSMISSION`
+`/// END_OF_TRANSMISSION`
+`/// ENDFIELD_INDUSTRIES_©_2025`
 
 </div>
